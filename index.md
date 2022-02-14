@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+## Hmm...
+This is what you get when you're trying to be a Blogger.
 
-Maybe say a some things about yourself.
+### How it all started?
+~~Once upon a time in a country far far away, the boy was born~~ That's a story for another time
 
-Or maybe what you plan to blog about.
+### Read my new blog posts~
