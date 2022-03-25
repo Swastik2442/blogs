@@ -19,8 +19,12 @@ github_username: "Swastik2442"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-
+baseurl: /blogs
 rss: rss
+timezone: Asia/Kolkata
+
+# Google Analytics
+google_analytics: G-P9EFTG7MMJ
 
 kramdown:
   syntax_highlighter_opts:

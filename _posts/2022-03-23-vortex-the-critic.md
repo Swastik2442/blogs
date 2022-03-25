@@ -26,6 +26,7 @@ Then, comes yesterday, this guy already in his ego, starts trolling me in VC tha
 Usually when a User gets banned from a Community, he/she should not try to enter it again using unlawful reasons; but here, our guy Vortex, thanks to his Alts, enters the Server again, to diss the Server 🤣
 
 Imagine sending messages like these~
+
 ![](https://media.discordapp.net/attachments/914730653512257566/956511513999454228/unknown.png?width=394&height=640) ![](https://media.discordapp.net/attachments/914730653512257566/956511663081791498/unknown.png?width=394&height=640)
 
 ## How It Should Have Been
