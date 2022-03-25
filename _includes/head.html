@@ -21,5 +21,15 @@
   <script type="text/javascript" src="/blogs/js/highlightjs/languages/tsql.min.js"></script>
 
   <script type="text/javascript"> hljs.highlightAll(); </script>
-  <!-- end highlight.js support -->
+  <!-- End highlight.js support -->
+  <!-- MathJax support -->
+  {% if page.usemathjax %}
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+      });
+    </script>
+    <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  {% endif %}
+  <!-- End MathJax support -->
 </head>

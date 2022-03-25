@@ -26,6 +26,7 @@ timezone: Asia/Kolkata
 # Google Analytics
 google_analytics: G-P9EFTG7MMJ
 
+markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable: true
