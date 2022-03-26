@@ -11,3 +11,5 @@ title: Blog Archive
     {% endfor %}
   </ul>
 {% endfor %}
+
+<link href="/blogs/css/override.css" rel="stylesheet" type="text/css">

@@ -2,7 +2,7 @@
 usemathjax: true
 ---
 
-# Important Maths Formulas~
+# Important Maths Formulas
 
 ## Calculus
 
@@ -20,19 +20,19 @@ usemathjax: true
 
 - $\int \tan x dx = -\log{}\vert \cos x\vert  + C = \log{}\vert \sec x\vert  + C$
 
-- $\int \cot x dx = \log{}\vert \sin x\vert  + C = -\log{}\vert \cosec x\vert  + C$
+- $\int \cot x dx = \log{}\vert \sin x\vert  + C = -\log{}\vert \mathrm{cosec} x\vert  + C$
 
 - $\int \sec x dx = -\log{}\vert \sec x + \tan x \vert  + C = \log \vert \tan(\frac{\pi}{2} + \frac{x}{2}) \vert + C$
 
-- $\int \cosec x dx = -\log{}\vert \cos x\vert  + C = \log{}\vert \sec x\vert  + C = \log \vert \tan\frac{x}{2} \vert + C$
+- $\int \mathrm{cosec} x dx = -\log{}\vert \cos x\vert  + C = \log{}\vert \sec x\vert  + C = \log \vert \tan\frac{x}{2} \vert + C$
 
 - $\int \sec x \tan x dx = \sec x  + C$
 
-- $\int \cosec x \cot x dx = - \cosec x + C$
+- $\int \mathrm{cosec} x \cot x dx = - \mathrm{cosec} x + C$
 
 - $\int \sec^2x dx = \tan x + C$
 
-- $\int \cosec^2x dx = -\cot x + C$
+- $\int \mathrm{cosec}^2x dx = -\cot x + C$
 
 - $\displaystyle\int \cfrac{1}{\sqrt{1-x^2}} dx = \sin^{-1} x + C$
 
@@ -44,7 +44,7 @@ usemathjax: true
 
 - $\displaystyle\int \cfrac{1}{x\sqrt{x^2-1}} dx = \sec^{-1} x + C$
 
-- $\displaystyle\int \cfrac{-1}{x\sqrt{x^2-1}} dx = -\cosec^{-1} x + C$
+- $\displaystyle\int \cfrac{-1}{x\sqrt{x^2-1}} dx = -\mathrm{cosec}^{-1} x + C$
 
 - $\displaystyle\int \cfrac{1}{\sqrt{a^2-x^2}} dx = \sin^{-1} \frac{x}{a} + C$
 
